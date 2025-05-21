@@ -1,5 +1,8 @@
 # vCard - Personal portfolio
 
+> [!IMPORTANT]
+> This repository is a worsened version of the [vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio), designed to serve as practice for improving web performance in the talk [La fuente de los errores](https://tiny.cc/la-fuente-de-los-errores).
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
